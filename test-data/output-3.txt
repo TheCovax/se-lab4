@@ -1,0 +1,4 @@
+SUCCESS     # <- GT4500
+SUCCESS     # <- TORPEDO SINGLE, Primary
+SUCCESS     # <- TORPEDO SINGLE, Secondary (tries secondary but fails, so shoots primary)
+FAIL        # <- TORPEDO SINGLE, tries secondary, but fails again, tried primary but fails
